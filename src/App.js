@@ -1,7 +1,7 @@
 import './App.css';
-import Functional from './component/Functional';
-import Classes from './component/Classes';
-import './component/style.css';
+import Functional from './Functional';
+import Classes from './Classes';
+import './style.css';
 import React, { useState } from 'react';
 //import { render } from '@testing-library/react';
 
